@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# this script originally written by Chris P., a.k.a. liberal-almond-matte-spider-203286, on the RingPlus forums: https://social.ringplus.net/discussion/comment/149574/#Comment_149574 / http://archive.is/Bm32I#Item_17
+
 # vim: set ts=4 sw=)
 
 import sys

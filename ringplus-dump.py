@@ -234,7 +234,7 @@ import webbrowser
 from pprint import pprint
 from optparse import OptionParser
 def main():
-    redirect_uri='https://home/chris/ringplus_token.html'
+    redirect_uri='urn:ietf:wg:oauth:2.0:oob'
     client = Client(
     	auth_endpoint="https://my.ringplus.net/oauth/authorize",
     	token_endpoint="https://my.ringplus.net/oauth/token",
